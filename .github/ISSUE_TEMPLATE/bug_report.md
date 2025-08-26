@@ -1,6 +1,6 @@
 ---
 name: 🐛 Relatar um Bug
-about: Crie um relatório para nos ajudar a melhorar
+about: Produza relatório para nos ajudar a corrigir o problema.
 title: "[BUG]"
 labels: bug
 assignees: ''
