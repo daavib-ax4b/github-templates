@@ -1,11 +1,11 @@
----
+<!-- ---
 name: '[FEATURE]: '
 about: Describe the new feature and its purpose.
 title: 'feat: add a brief description of the feature'
 labels: feature
 assignees: ''
 
----
+--- -->
 
 ## 🚀 What does this PR do?
 
