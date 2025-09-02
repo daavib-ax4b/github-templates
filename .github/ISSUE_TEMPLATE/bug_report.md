@@ -1,33 +1,30 @@
 ---
-name: 🐛 Relatar um Bug
-about: Produza relatório para nos ajudar a corrigir o problema.
+name: Report a Bug
+about: Produce a report to help us fix the problem.
 title: "[BUG]"
 labels: bug
 assignees: ''
-
 ---
+## 🐞 Describe the bug:
+Describe the bug clearly and concisely.
 
-## 🐞 Descreva o Bug
-Descreva o bug de forma clara e concisa.
+## How to reproduce:
+Steps to reproduce the behavior:
+1.  Go to '...'
+2.  Click on '...'
+3.  Scroll down to '...'.
+4.  See the error.
 
-## 🔄 Como Reproduzir
-Passos para reproduzir o comportamento:
+## Expected behavior:
+Describe what should happen.
 
-1.  Vá para '...'
-2.  Clique em '....'
-3.  Desça a página para '....'
-4.  Veja o erro
+## Screenshots (optional):
+If possible, add screenshots to help explain your problem.
 
-## 🤔 Comportamento Esperado
-Descreva o que deveria acontecer.
+## Environment (optional):
+* **Operating system:**[e.g. macOS Big Sur 11.2.3]
+* **Browser:** [e.g. Chrome 89.0.4389.90]
+* **Project version:** [Ex: v1.0.0]
 
-## 📝 Capturas de Tela (Opcional)
-Se possível, adicione capturas de tela para ajudar a explicar o seu problema.
-
-## 🖥️ Ambiente (Opcional)
-* **Sistema Operacional:** [Ex: macOS Big Sur 11.2.3]
-* **Navegador:** [Ex: Chrome 89.0.4389.90]
-* **Versão do Projeto:** [Ex: v1.0.0]
-
-## ➕ Informações Adicionais (Opcional)
-Adicione qualquer outra informação que possa ser útil.
+## Additional information (optional):
+Add any other useful information.

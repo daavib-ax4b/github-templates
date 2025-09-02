@@ -1,38 +1,38 @@
----
-name: ✨ Solicitar uma Nova Funcionalidade
-about: Descreva a nova funcionalidade ou melhoria que você gostaria de ver no produto.
+-
+name: ✨ Request a new feature
+description: Describe the new feature or improvement you would like to see in the product.
 title: "[FEATURE]"
-labels: enhancement, planning, feature
-assignees: ''
+labels: "feature"
+assignees: "-"
 
----
+-
 
-## 💡 Proposta da Funcionalidade
+## Feature proposal:
 
-**Descreva a nova funcionalidade de forma clara e objetiva.** O que ela deve fazer e qual o comportamento esperado?
+Describe the new feature clearly and objectively: what should it do and what behavior is expected?
 
-## 🤔 Qual problema ela resolve?
+## What problem does it solve?
 
-**Explique o contexto e a justificativa.** Por que essa funcionalidade é necessária? Qual dor ou desafio ela resolve para o usuário ou para o negócio?
+Explain the context and justification. Why is this feature necessary? What problem does it solve for the user or the business?
 
-## 📝 Escopo e Critérios de Aceitação
+## Scope and acceptance criteria:
 
-**Liste os requisitos e os critérios para considerar a funcionalidade concluída.**
+List the requirements and criteria for considering the functionality completed.
 
-* [ ] Requisito 1:
-* [ ] Requisito 2:
-* [ ] Requisito 3:
+* [ ] Requirement 1:
+* [ ] Requirement 2:
+* [ ] Requirement 3:
 
-## 🔗 Dependências
+## Dependencies
 
-**Esta funcionalidade depende de alguma outra tarefa ou projeto?**
-[Ex: Depende da API V2 que ainda está em desenvolvimento.]
+Does this functionality depend on any other task or project?
+[Example: depends on API V2, which is still under development].
 
-## 🎨 Mockups ou Wireframes (Opcional)
+## Mockups or wireframes (optional)
 
-Se possível, adicione links ou imagens para **mockups, wireframes ou rascunhos** que ajudem a visualizar a proposta.
+If possible, add links or images to prototypes, sketches or drafts that help visualize the proposal.
 
-## 👥 Stakeholders
+## Stakeholders
 
-**Quem são os principais interessados ou pessoas que devem ser consultadas sobre esta funcionalidade?**
-@nome-do-usuario1, @nome-do-usuario2
+Who are the main stakeholders or people who should be consulted about this feature?
+@username1, @username2
