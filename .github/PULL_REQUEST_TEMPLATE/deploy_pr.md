@@ -13,4 +13,4 @@
 
 ## 🔗 Related Tickets
 * Link to the main issues or tickets being deployed.
-* Example: Closes #123, Closes #124
+* e.g., Closes #123, Closes #124

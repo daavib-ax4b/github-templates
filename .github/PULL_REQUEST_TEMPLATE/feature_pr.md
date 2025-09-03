@@ -2,6 +2,11 @@
 
 Explain in a few sentences what this PR adds or changes.
 
+## 🔧 Breaking Changes
+
+* Explain whether any changes could affect the work of a particular part of the system.
+*  e.g., the function 'getUsername()' was renamed 'getFullName()'.
+
 ## 🔗 Related Issue
 
 This PR closes issue #000.

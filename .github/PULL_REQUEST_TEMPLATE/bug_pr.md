@@ -1,12 +1,3 @@
----
-name: 'Bug Fix: '
-about: PR to fix an existing bug.
-title: "fix: [name of the fix]"
-labels: bug, needs-review
-assignees: ''
-
----
-
 ## 🐞 What problem does this PR solve?
 
 * Describe the original bug concisely.
@@ -15,7 +6,7 @@ assignees: ''
 ## 🛠️ What is the solution?
 
 * Explain what was changed in the code to fix the bug.
-* Example: "I added a `null` check in component `X` to prevent error `Y`."
+* e.g., "I added a `null` check in component `X` to prevent error `Y`."
 
 ## ✅ Verification Checklist
 
