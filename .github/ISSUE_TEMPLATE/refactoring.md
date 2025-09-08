@@ -1,27 +1,26 @@
 ---
-name: ♻️ Refatoração
-about: Descreva uma tarefa de refatoração para melhorar a estrutura ou a performance do código.
+name: ♻️ Refactoring
+about: Describe a refactoring task to improve the structure or performance of the code.
 title: "[REFACTOR]"
 labels: improvements
 assignees: ''
-
 ---
 
-### 🎯 Qual o objetivo da refatoração?
-Descreva o que será melhorado e o porquê.
+### What is the objective of the refactoring?
+Describe what will be improved and why.
 
-### 📝 Escopo
-Quais arquivos ou módulos serão afetados?
+### Scope
+Which files or modules will be affected?
 
-### ✅ Checklist de Conclusão
-- [ ] O comportamento do código não foi alterado.
-- [ ] Um novo conjunto de testes foi adicionado para cobrir o comportamento refatorado.
-- [ ] Os testes existentes continuam passando.
-- [ ] O código ficou mais limpo e/ou performático.
-- [ ] O código agora é mais legível e segue os padrões do projeto.
+### Completion Checklist
+- [ ] The behavior of the code has not changed.
+- [ ] A new set of tests has been added to cover the refactored behavior.
+- [ ] The existing tests continue to pass.
+- [ ] The code has become cleaner and/or more performant.
+- [ ] The code is now more readable and follows the project standards.
 
-## 🔗 Dependências ou Efeitos Colaterais
+## Dependencies or Side Effects
 
-Esta refatoração impacta outras partes do sistema? Há alguma outra tarefa que dependa desta?
+Does this refactoring impact other parts of the system? Are there any other tasks that depend on it?
 
 ---

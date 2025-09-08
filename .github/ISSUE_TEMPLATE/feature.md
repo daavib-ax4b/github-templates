@@ -1,11 +1,10 @@
--
+---
 name: ✨ Request a new feature
-description: Describe the new feature or improvement you would like to see in the product.
+about: Describe the new feature or improvement you would like to see in the product.
 title: "[FEATURE]"
 labels: "feature"
 assignees: "-"
-
--
+---
 
 ## Feature proposal:
 

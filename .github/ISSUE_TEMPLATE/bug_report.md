@@ -1,11 +1,12 @@
 ---
-name: Report a Bug
+name: 🐞 Report a Bug
 about: Produce a report to help us fix the problem.
 title: "[BUG]"
 labels: bug
 assignees: ''
 ---
-## 🐞 Describe the bug:
+
+## Describe the bug:
 Describe the bug clearly and concisely.
 
 ## How to reproduce:
